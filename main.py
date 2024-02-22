@@ -5,4 +5,9 @@ class Song:
 class MusicPlayer:
     pass
 
+
+song_list = []
+
+
+
 # pep8
